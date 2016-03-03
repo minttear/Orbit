@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 0b955cc65864942efbced4b3da0e7b18
+timeCreated: 1455564270
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Circle
+    100004: Cylinder.000
+    100006: Cylinder.001
+    100008: Cylinder.002
+    100010: Cylinder.003
+    100012: Cylinder.004
+    100014: Lamp
+    100016: //RootNode
+    100018: obstacle000
+    100020: obstacle002
+    100022: obstacle003
+    100024: obstacles001
+    100026: switch002
+    400000: Camera
+    400002: Circle
+    400004: Cylinder.000
+    400006: Cylinder.001
+    400008: Cylinder.002
+    400010: Cylinder.003
+    400012: Cylinder.004
+    400014: Lamp
+    400016: //RootNode
+    400018: obstacle000
+    400020: obstacle002
+    400022: obstacle003
+    400024: obstacles001
+    400026: switch002
+    2300000: Circle
+    2300002: Cylinder.000
+    2300004: Cylinder.001
+    2300006: Cylinder.002
+    2300008: Cylinder.003
+    2300010: Cylinder.004
+    2300012: obstacle000
+    2300014: obstacle002
+    2300016: obstacle003
+    2300018: obstacles001
+    2300020: switch002
+    3300000: Circle
+    3300002: Cylinder.000
+    3300004: Cylinder.001
+    3300006: Cylinder.002
+    3300008: Cylinder.003
+    3300010: Cylinder.004
+    3300012: obstacle000
+    3300014: obstacle002
+    3300016: obstacle003
+    3300018: obstacles001
+    3300020: switch002
+    4300000: Circle
+    4300002: obstacle003
+    4300004: obstacle002
+    4300006: obstacles001
+    4300008: obstacle000
+    4300010: switch002
+    4300012: Cylinder.001
+    4300014: Cylinder.004
+    4300016: Cylinder.003
+    4300018: Cylinder.002
+    4300020: Cylinder.000
+    6400000: Circle
+    6400002: Cylinder.000
+    6400004: Cylinder.001
+    6400006: Cylinder.002
+    6400008: Cylinder.003
+    6400010: Cylinder.004
+    6400012: obstacle000
+    6400014: obstacle002
+    6400016: obstacle003
+    6400018: obstacles001
+    6400020: switch002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

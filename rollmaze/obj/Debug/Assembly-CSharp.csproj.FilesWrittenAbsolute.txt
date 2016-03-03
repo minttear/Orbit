@@ -1,0 +1,17 @@
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/UnityEngine.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/UnityEditor.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Mono.Cecil.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Unity.DataContract.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/minttear/Desktop/prototype-project2/rollmaze/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/obj/Debug/Assembly-CSharp.dll
+/Users/minttear/Desktop/prototype-project2/rollmaze/obj/Debug/Assembly-CSharp.dll.mdb

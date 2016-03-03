@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 0017255f21d4f447fa579b1f74e29a48
+timeCreated: 1455393514
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cylinder
+    100004: Cylinder.003
+    100006: Lamp
+    100008: obstacle002
+    100010: obstacle003
+    100012: obstacles001
+    100014: Stick001
+    100016: Stick002
+    100018: //RootNode
+    100020: Camera.001
+    100022: Cylinder.001
+    100024: Cylinder.002
+    100026: Lamp.001
+    100028: obstacle002.001
+    100030: obstacle003.001
+    100032: obstacles001.001
+    100034: Stick001.001
+    100036: Stick002.001
+    400000: Camera
+    400002: Cylinder
+    400004: Cylinder.003
+    400006: Lamp
+    400008: obstacle002
+    400010: obstacle003
+    400012: obstacles001
+    400014: Stick001
+    400016: Stick002
+    400018: //RootNode
+    400020: Camera.001
+    400022: Cylinder.001
+    400024: Cylinder.002
+    400026: Lamp.001
+    400028: obstacle002.001
+    400030: obstacle003.001
+    400032: obstacles001.001
+    400034: Stick001.001
+    400036: Stick002.001
+    2300000: Cylinder
+    2300002: Cylinder.003
+    2300004: obstacle002
+    2300006: obstacle003
+    2300008: obstacles001
+    2300010: Stick001
+    2300012: Stick002
+    2300014: Cylinder.001
+    2300016: Cylinder.002
+    2300018: obstacle002.001
+    2300020: obstacle003.001
+    2300022: obstacles001.001
+    2300024: Stick001.001
+    2300026: Stick002.001
+    3300000: Cylinder
+    3300002: Cylinder.003
+    3300004: obstacle002
+    3300006: obstacle003
+    3300008: obstacles001
+    3300010: Stick001
+    3300012: Stick002
+    3300014: Cylinder.001
+    3300016: Cylinder.002
+    3300018: obstacle002.001
+    3300020: obstacle003.001
+    3300022: obstacles001.001
+    3300024: Stick001.001
+    3300026: Stick002.001
+    4300000: obstacle003
+    4300002: obstacle002
+    4300004: obstacles001
+    4300006: Stick002
+    4300008: Cylinder.003
+    4300010: Stick001
+    4300012: Cylinder
+    4300014: Cylinder.002
+    4300016: Stick001.001
+    4300018: Cylinder.001
+    4300020: Stick002.001
+    4300022: obstacles001.001
+    4300024: obstacle002.001
+    4300026: obstacle003.001
+    6400000: Cylinder
+    6400002: Cylinder.003
+    6400004: obstacle002
+    6400006: obstacle003
+    6400008: obstacles001
+    6400010: Stick001
+    6400012: Stick002
+    6400014: Cylinder.001
+    6400016: Cylinder.002
+    6400018: obstacle002.001
+    6400020: obstacle003.001
+    6400022: obstacles001.001
+    6400024: Stick001.001
+    6400026: Stick002.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
